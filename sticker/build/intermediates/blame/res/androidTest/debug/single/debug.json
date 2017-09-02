@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/res/merged/androidTest/debug/drawable_bqmm_point_normal.xml.flat",
+        "source": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/bundles/debug/res/drawable/bqmm_point_normal.xml"
+    },
+    {
+        "merged": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_bqmm_emoji_loadfail.png.flat",
+        "source": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/bqmm_emoji_loadfail.png"
+    },
+    {
+        "merged": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/res/merged/androidTest/debug/layout_bqmm_message_view_right.xml.flat",
+        "source": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/bundles/debug/res/layout/bqmm_message_view_right.xml"
+    },
+    {
+        "merged": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/res/merged/androidTest/debug/drawable_bqmm_chatto_bg.xml.flat",
+        "source": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/bundles/debug/res/drawable/bqmm_chatto_bg.xml"
+    },
+    {
+        "merged": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/res/merged/androidTest/debug/drawable_bqmm_point_selected.xml.flat",
+        "source": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/bundles/debug/res/drawable/bqmm_point_selected.xml"
+    },
+    {
+        "merged": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_bqmm_chatto_bg_focused.9.png.flat",
+        "source": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/bqmm_chatto_bg_focused.9.png"
+    },
+    {
+        "merged": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/res/merged/androidTest/debug/anim_bqmm_slide_in_from_right.xml.flat",
+        "source": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/bundles/debug/res/anim/bqmm_slide_in_from_right.xml"
+    },
+    {
+        "merged": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/res/merged/androidTest/debug/layout_bqmm_item_emoji_message.xml.flat",
+        "source": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/bundles/debug/res/layout/bqmm_item_emoji_message.xml"
+    },
+    {
+        "merged": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/res/merged/androidTest/debug/anim_bqmm_slide_out_to_right.xml.flat",
+        "source": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/bundles/debug/res/anim/bqmm_slide_out_to_right.xml"
+    },
+    {
+        "merged": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/res/merged/androidTest/debug/drawable_bqmm_selector_tab_bg.xml.flat",
+        "source": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/bundles/debug/res/drawable/bqmm_selector_tab_bg.xml"
+    },
+    {
+        "merged": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_bqmm_chatfrom_bg_focused.9.png.flat",
+        "source": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/bqmm_chatfrom_bg_focused.9.png"
+    },
+    {
+        "merged": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_bqmm_back.png.flat",
+        "source": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/bqmm_back.png"
+    },
+    {
+        "merged": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_bqmm_emoji_loading.png.flat",
+        "source": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/bqmm_emoji_loading.png"
+    },
+    {
+        "merged": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/res/merged/androidTest/debug/raw_bqmm_sticker_loading.gif.flat",
+        "source": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/bundles/debug/res/raw/bqmm_sticker_loading.gif"
+    },
+    {
+        "merged": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_bqmm_emoji_delete_img.png.flat",
+        "source": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/bqmm_emoji_delete_img.png"
+    },
+    {
+        "merged": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/res/merged/androidTest/debug/anim_bqmm_slide_in_from_left.xml.flat",
+        "source": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/bundles/debug/res/anim/bqmm_slide_in_from_left.xml"
+    },
+    {
+        "merged": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/res/merged/androidTest/debug/layout_bqmm_item_face.xml.flat",
+        "source": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/bundles/debug/res/layout/bqmm_item_face.xml"
+    },
+    {
+        "merged": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/res/merged/androidTest/debug/layout_bqmm_keyboard_tab.xml.flat",
+        "source": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/bundles/debug/res/layout/bqmm_keyboard_tab.xml"
+    },
+    {
+        "merged": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/res/merged/androidTest/debug/layout_bqmm_message_view_left.xml.flat",
+        "source": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/bundles/debug/res/layout/bqmm_message_view_left.xml"
+    },
+    {
+        "merged": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_bqmm_setting2x.png.flat",
+        "source": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/bqmm_setting2x.png"
+    },
+    {
+        "merged": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_bqmm_emoji_eo_fail_default.png.flat",
+        "source": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/bqmm_emoji_eo_fail_default.png"
+    },
+    {
+        "merged": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/res/merged/androidTest/debug/drawable_bqmm_chatfrom_bg.xml.flat",
+        "source": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/bundles/debug/res/drawable/bqmm_chatfrom_bg.xml"
+    },
+    {
+        "merged": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_bqmm_chatto_bg_normal.9.png.flat",
+        "source": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/bqmm_chatto_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/res/merged/androidTest/debug/drawable_bqmm_pic_bg.xml.flat",
+        "source": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/bundles/debug/res/drawable/bqmm_pic_bg.xml"
+    },
+    {
+        "merged": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/res/merged/androidTest/debug/anim_bqmm_slide_out_to_left.xml.flat",
+        "source": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/bundles/debug/res/anim/bqmm_slide_out_to_left.xml"
+    },
+    {
+        "merged": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/res/merged/androidTest/debug/drawable_bqmm_bg_chat_time_tag.xml.flat",
+        "source": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/bundles/debug/res/drawable/bqmm_bg_chat_time_tag.xml"
+    },
+    {
+        "merged": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/res/merged/androidTest/debug/layout_bqmm_item_emoji.xml.flat",
+        "source": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/bundles/debug/res/layout/bqmm_item_emoji.xml"
+    },
+    {
+        "merged": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/res/merged/androidTest/debug/drawable_bqmm_shortcut_emoji_bg.xml.flat",
+        "source": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/bundles/debug/res/drawable/bqmm_shortcut_emoji_bg.xml"
+    },
+    {
+        "merged": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_bqmm_chatfrom_bg_normal.9.png.flat",
+        "source": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/bqmm_chatfrom_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_bqmm_keyboard_store_bg.png.flat",
+        "source": "/home/lv/AndroidStudioProjects/MySticker/sticker/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/bqmm_keyboard_store_bg.png"
+    }
+]
