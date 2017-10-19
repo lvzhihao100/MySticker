@@ -17,15 +17,16 @@ public final class R {
         public static int gif = 0x7f040001;
         public static int gifMoviewViewStyle = 0x7f040002;
         public static int paused = 0x7f040003;
-        public static int progressbtn_backgroud_color = 0x7f040004;
-        public static int progressbtn_backgroud_second_color = 0x7f040005;
-        public static int progressbtn_radius = 0x7f040006;
-        public static int progressbtn_text_color = 0x7f040007;
-        public static int progressbtn_text_covercolor = 0x7f040008;
-        public static int reachBarColor = 0x7f040009;
-        public static int reachTextColor = 0x7f04000a;
-        public static int unReachBarColor = 0x7f04000b;
-        public static int unReachTextColor = 0x7f04000c;
+        public static int progress = 0x7f040004;
+        public static int progressbtn_backgroud_color = 0x7f040005;
+        public static int progressbtn_backgroud_second_color = 0x7f040006;
+        public static int progressbtn_radius = 0x7f040007;
+        public static int progressbtn_text_color = 0x7f040008;
+        public static int progressbtn_text_covercolor = 0x7f040009;
+        public static int reachBarColor = 0x7f04000a;
+        public static int reachTextColor = 0x7f04000b;
+        public static int unReachBarColor = 0x7f04000c;
+        public static int unReachTextColor = 0x7f04000d;
     }
     public static final class color {
         public static int bqmm_background_tab_pressed = 0x7f060001;
@@ -160,7 +161,7 @@ public final class R {
         public static int bqmm_horizontal_slide = 0x7f160005;
     }
     public static final class styleable {
-        public static int[] AnimDownloadProgressButton = { 0x7f040004, 0x7f040005, 0x7f040006, 0x7f040007, 0x7f040008 };
+        public static int[] AnimDownloadProgressButton = { 0x7f040005, 0x7f040006, 0x7f040007, 0x7f040008, 0x7f040009 };
         public static int AnimDownloadProgressButton_progressbtn_backgroud_color = 0;
         public static int AnimDownloadProgressButton_progressbtn_backgroud_second_color = 1;
         public static int AnimDownloadProgressButton_progressbtn_radius = 2;
@@ -171,10 +172,11 @@ public final class R {
         public static int[] GifMoviewView = { 0x7f040001, 0x7f040003 };
         public static int GifMoviewView_gif = 0;
         public static int GifMoviewView_paused = 1;
-        public static int[] ProgressTextView = { 0x7f040009, 0x7f04000a, 0x7f04000b, 0x7f04000c };
-        public static int ProgressTextView_reachBarColor = 0;
-        public static int ProgressTextView_reachTextColor = 1;
-        public static int ProgressTextView_unReachBarColor = 2;
-        public static int ProgressTextView_unReachTextColor = 3;
+        public static int[] ProgressTextView = { 0x7f040004, 0x7f04000a, 0x7f04000b, 0x7f04000c, 0x7f04000d };
+        public static int ProgressTextView_progress = 0;
+        public static int ProgressTextView_reachBarColor = 1;
+        public static int ProgressTextView_reachTextColor = 2;
+        public static int ProgressTextView_unReachBarColor = 3;
+        public static int ProgressTextView_unReachTextColor = 4;
     }
 }

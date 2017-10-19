@@ -13,7 +13,7 @@
         <attr name="reachTextColor" format="reference" />
         <attr name="unReachBarColor" format="reference" />
         <attr name="unReachTextColor" format="reference" />
-        <!--<attr name="progress" format="float" />-->
+        <attr name="progress" format="float" />
     </declare-styleable>
     <declare-styleable name="AnimDownloadProgressButton">
         <attr name="progressbtn_radius" format="float" />

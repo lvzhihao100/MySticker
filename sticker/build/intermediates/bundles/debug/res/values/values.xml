@@ -50,7 +50,7 @@
     <declare-styleable name="AnimDownloadProgressButton"><attr format="float" name="progressbtn_radius"/><attr format="color" name="progressbtn_backgroud_color"/><attr format="color" name="progressbtn_backgroud_second_color"/><attr format="color" name="progressbtn_text_color"/><attr format="color" name="progressbtn_text_covercolor"/></declare-styleable>
     <declare-styleable name="CustomTheme"><attr format="reference" name="gifMoviewViewStyle"/></declare-styleable>
     <declare-styleable name="GifMoviewView"><attr format="reference" name="gif"/><attr format="boolean" name="paused"/></declare-styleable>
-    <declare-styleable name="ProgressTextView"><attr format="reference" name="reachBarColor"/><attr format="reference" name="reachTextColor"/><attr format="reference" name="unReachBarColor"/><attr format="reference" name="unReachTextColor"/></declare-styleable>
+    <declare-styleable name="ProgressTextView"><attr format="reference" name="reachBarColor"/><attr format="reference" name="reachTextColor"/><attr format="reference" name="unReachBarColor"/><attr format="reference" name="unReachTextColor"/><attr format="float" name="progress"/></declare-styleable>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="bqmm_keyboard_network_error_text_size">18sp</dimen>

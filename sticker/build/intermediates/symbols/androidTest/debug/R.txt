@@ -5,15 +5,16 @@ int anim bqmm_slide_out_to_right 0x7f010003
 int attr gif 0x7f020000
 int attr gifMoviewViewStyle 0x7f020001
 int attr paused 0x7f020002
-int attr progressbtn_backgroud_color 0x7f020003
-int attr progressbtn_backgroud_second_color 0x7f020004
-int attr progressbtn_radius 0x7f020005
-int attr progressbtn_text_color 0x7f020006
-int attr progressbtn_text_covercolor 0x7f020007
-int attr reachBarColor 0x7f020008
-int attr reachTextColor 0x7f020009
-int attr unReachBarColor 0x7f02000a
-int attr unReachTextColor 0x7f02000b
+int attr progress 0x7f020003
+int attr progressbtn_backgroud_color 0x7f020004
+int attr progressbtn_backgroud_second_color 0x7f020005
+int attr progressbtn_radius 0x7f020006
+int attr progressbtn_text_color 0x7f020007
+int attr progressbtn_text_covercolor 0x7f020008
+int attr reachBarColor 0x7f020009
+int attr reachTextColor 0x7f02000a
+int attr unReachBarColor 0x7f02000b
+int attr unReachTextColor 0x7f02000c
 int color bqmm_background_tab_pressed 0x7f030000
 int color bqmm_delete_button_background_color 0x7f030001
 int color bqmm_delete_button_border_color 0x7f030002
@@ -130,7 +131,7 @@ int style AppBaseTheme 0x7f0a0001
 int style AppTheme 0x7f0a0002
 int style Widget_GifMoviewView 0x7f0a0003
 int style bqmm_horizontal_slide 0x7f0a0004
-int[] styleable AnimDownloadProgressButton { 0x7f020003, 0x7f020004, 0x7f020005, 0x7f020006, 0x7f020007 }
+int[] styleable AnimDownloadProgressButton { 0x7f020004, 0x7f020005, 0x7f020006, 0x7f020007, 0x7f020008 }
 int styleable AnimDownloadProgressButton_progressbtn_backgroud_color 0
 int styleable AnimDownloadProgressButton_progressbtn_backgroud_second_color 1
 int styleable AnimDownloadProgressButton_progressbtn_radius 2
@@ -141,8 +142,9 @@ int styleable CustomTheme_gifMoviewViewStyle 0
 int[] styleable GifMoviewView { 0x7f020000, 0x7f020002 }
 int styleable GifMoviewView_gif 0
 int styleable GifMoviewView_paused 1
-int[] styleable ProgressTextView { 0x7f020008, 0x7f020009, 0x7f02000a, 0x7f02000b }
-int styleable ProgressTextView_reachBarColor 0
-int styleable ProgressTextView_reachTextColor 1
-int styleable ProgressTextView_unReachBarColor 2
-int styleable ProgressTextView_unReachTextColor 3
+int[] styleable ProgressTextView { 0x7f020003, 0x7f020009, 0x7f02000a, 0x7f02000b, 0x7f02000c }
+int styleable ProgressTextView_progress 0
+int styleable ProgressTextView_reachBarColor 1
+int styleable ProgressTextView_reachTextColor 2
+int styleable ProgressTextView_unReachBarColor 3
+int styleable ProgressTextView_unReachTextColor 4

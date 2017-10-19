@@ -35,61 +35,65 @@ public final class R {
      */
     public static final int paused=0x7f020002;
     /**
-     * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
-     * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
-     * "<code>#<i>aarrggbb</i></code>".
+     * <p>May be a floating point value, such as "<code>1.2</code>".
      */
-    public static final int progressbtn_backgroud_color=0x7f020003;
+    public static final int progress=0x7f020003;
     /**
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      */
-    public static final int progressbtn_backgroud_second_color=0x7f020004;
+    public static final int progressbtn_backgroud_color=0x7f020004;
+    /**
+     * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
+     * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
+     * "<code>#<i>aarrggbb</i></code>".
+     */
+    public static final int progressbtn_backgroud_second_color=0x7f020005;
     /**
      * <p>May be a floating point value, such as "<code>1.2</code>".
      */
-    public static final int progressbtn_radius=0x7f020005;
+    public static final int progressbtn_radius=0x7f020006;
     /**
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      */
-    public static final int progressbtn_text_color=0x7f020006;
+    public static final int progressbtn_text_color=0x7f020007;
     /**
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      */
-    public static final int progressbtn_text_covercolor=0x7f020007;
+    public static final int progressbtn_text_covercolor=0x7f020008;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int reachBarColor=0x7f020008;
+    public static final int reachBarColor=0x7f020009;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int reachTextColor=0x7f020009;
+    public static final int reachTextColor=0x7f02000a;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int unReachBarColor=0x7f02000a;
+    public static final int unReachBarColor=0x7f02000b;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int unReachTextColor=0x7f02000b;
+    public static final int unReachTextColor=0x7f02000c;
   }
   public static final class color {
     public static final int bqmm_background_tab_pressed=0x7f030000;
@@ -244,8 +248,8 @@ public final class R {
      * @see #AnimDownloadProgressButton_progressbtn_text_covercolor
      */
     public static final int[] AnimDownloadProgressButton={
-        0x7f020003, 0x7f020004, 0x7f020005, 0x7f020006, 
-        0x7f020007
+        0x7f020004, 0x7f020005, 0x7f020006, 0x7f020007, 
+        0x7f020008
       };
     /**
      * <p>This symbol is the offset where the {@link com.melink.bqmmplugin.test.R.attr#progressbtn_backgroud_color}
@@ -371,19 +375,31 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
+     * <tr><td><code>{@link #ProgressTextView_progress com.melink.bqmmplugin.test:progress}</code></td><td></td></tr>
      * <tr><td><code>{@link #ProgressTextView_reachBarColor com.melink.bqmmplugin.test:reachBarColor}</code></td><td></td></tr>
      * <tr><td><code>{@link #ProgressTextView_reachTextColor com.melink.bqmmplugin.test:reachTextColor}</code></td><td></td></tr>
      * <tr><td><code>{@link #ProgressTextView_unReachBarColor com.melink.bqmmplugin.test:unReachBarColor}</code></td><td></td></tr>
      * <tr><td><code>{@link #ProgressTextView_unReachTextColor com.melink.bqmmplugin.test:unReachTextColor}</code></td><td></td></tr>
      * </table>
+     * @see #ProgressTextView_progress
      * @see #ProgressTextView_reachBarColor
      * @see #ProgressTextView_reachTextColor
      * @see #ProgressTextView_unReachBarColor
      * @see #ProgressTextView_unReachTextColor
      */
     public static final int[] ProgressTextView={
-        0x7f020008, 0x7f020009, 0x7f02000a, 0x7f02000b
+        0x7f020003, 0x7f020009, 0x7f02000a, 0x7f02000b, 
+        0x7f02000c
       };
+    /**
+     * <p>This symbol is the offset where the {@link com.melink.bqmmplugin.test.R.attr#progress}
+     * attribute's value can be found in the {@link #ProgressTextView} array.
+     *
+     * <p>May be a floating point value, such as "<code>1.2</code>".
+     *
+     * @attr name com.melink.bqmmplugin.test:progress
+     */
+    public static final int ProgressTextView_progress=0;
     /**
      * <p>This symbol is the offset where the {@link com.melink.bqmmplugin.test.R.attr#reachBarColor}
      * attribute's value can be found in the {@link #ProgressTextView} array.
@@ -395,7 +411,7 @@ public final class R {
      *
      * @attr name com.melink.bqmmplugin.test:reachBarColor
      */
-    public static final int ProgressTextView_reachBarColor=0;
+    public static final int ProgressTextView_reachBarColor=1;
     /**
      * <p>This symbol is the offset where the {@link com.melink.bqmmplugin.test.R.attr#reachTextColor}
      * attribute's value can be found in the {@link #ProgressTextView} array.
@@ -407,7 +423,7 @@ public final class R {
      *
      * @attr name com.melink.bqmmplugin.test:reachTextColor
      */
-    public static final int ProgressTextView_reachTextColor=1;
+    public static final int ProgressTextView_reachTextColor=2;
     /**
      * <p>This symbol is the offset where the {@link com.melink.bqmmplugin.test.R.attr#unReachBarColor}
      * attribute's value can be found in the {@link #ProgressTextView} array.
@@ -419,7 +435,7 @@ public final class R {
      *
      * @attr name com.melink.bqmmplugin.test:unReachBarColor
      */
-    public static final int ProgressTextView_unReachBarColor=2;
+    public static final int ProgressTextView_unReachBarColor=3;
     /**
      * <p>This symbol is the offset where the {@link com.melink.bqmmplugin.test.R.attr#unReachTextColor}
      * attribute's value can be found in the {@link #ProgressTextView} array.
@@ -431,6 +447,6 @@ public final class R {
      *
      * @attr name com.melink.bqmmplugin.test:unReachTextColor
      */
-    public static final int ProgressTextView_unReachTextColor=3;
+    public static final int ProgressTextView_unReachTextColor=4;
   }
 }

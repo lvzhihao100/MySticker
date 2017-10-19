@@ -3,7 +3,7 @@
     package="com.melink.bqmmplugin.test" >
 
     <uses-sdk
-        android:minSdkVersion="16"
+        android:minSdkVersion="18"
         android:targetSdkVersion="24" />
 
     <instrumentation
